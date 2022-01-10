@@ -12,6 +12,7 @@
         android:background="@color/white"
         android:gravity="center"
         android:lines="3"
+        android:maxLines="3"
         android:text="Hello World! 3 line" />
 
     <TextView
@@ -19,6 +20,7 @@
         android:background="@color/white"
         android:gravity="center"
         android:lines="2"
+        android:maxLines="2"
         android:text="Hello World! 2 line" />
 
     <TextView
@@ -26,6 +28,7 @@
         android:background="@color/white"
         android:gravity="center"
         android:lines="1"
+        android:maxLines="1"
         android:text="Hello World! 1 line" />
 
 
